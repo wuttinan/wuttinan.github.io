@@ -83,9 +83,13 @@ title: archive
 
 ## Blog Posts
 
+{% highlight html %}
+{% raw %}
 {% for post in site.posts %}
   * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
 {% endfor %}
+{% endraw %}
+{% endhighlight %}
 ```
 
 เสร็จแล้วก็จับโยนใส่บนโฟลเดอร์บนสุดเลย เวลาเข้าก็เข้าทาง `yoursite.name/archive`
@@ -109,7 +113,7 @@ pages_list:
 
 ลำดับต่อมาก็ไปแก้ไฟล์ `/_layouts/default.html` ให้เป็นแบบนี้
 
-```
+
 {% highlight html %}
 {% raw %}
     <h3 class="masthead-title">
@@ -121,7 +125,7 @@ pages_list:
     </h3>
 {% endraw %}
 {% endhighlight %}
-```
+
 
 ### 4. others
 
