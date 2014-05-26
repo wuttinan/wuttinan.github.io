@@ -3,28 +3,13 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+hi! my name is wuttinan kachayoot (read like /wood-thi-nun/). i am freelance translator from thailand. my interest is technology, electronics and jazz music, photography, cooking, reading and more. this is where i write what i'm interested about. if you like my blog, you can follow me at [twitter](http://twitter.com/wuttinan/)
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+i studied about korean and japanese in bachelor degree from burapha university. currently studying master degree in teaching english at ramkhamhaeng university. i worked about teaching korean and japanese in government high school for three years. now turned to be freelance translator. for my full profile (include résumé) you can look at [here](http://www.linkedin.com/in/wuttinan/).
 
-There are currently two themes built on Poole:
+you can also reach me in another places:<br />
+[instagram](http://instagr.am/wuttinanp/) / [flickr](http://flickr.com/photos/eszett/) / [last.fm](http://last.fm/user/ping880727/) / [rdio](http://rdio.com/people/wuttinan/) / [steam](http://steamcommunity.com/id/wuttinan/) / [readability](http://readability.com/wuttinan)
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+i'm using [jekyll](http://jekyllrb.com/) with [poole](http://getpoole.com/) to run this blog and hosted by [github pages](https://pages.github.com/). for who interested to create blog like this, i wrote how-to at here (in thai.)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+thanks for visiting!
