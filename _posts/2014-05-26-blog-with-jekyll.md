@@ -79,7 +79,7 @@ your page content
 {% raw %}
 ---
 layout: page
-title: archive
+title: Archive
 ---
 
 ## Blog Posts
