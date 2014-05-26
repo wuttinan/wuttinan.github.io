@@ -85,7 +85,8 @@ your page content
 layout: page
 title: archive
 ---
-#Posts
+
+#Posts List
 
 {% for post in site.posts %}
   * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
