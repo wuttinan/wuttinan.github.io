@@ -75,7 +75,8 @@ your page content
 
 ตัวบล็อกไม่มีหน้ารวมโพสท์ไว้ จึงต้องสร้างไฟล์ `archive.md` ขึ้นมาอีกไฟล์นึง ข้างในเป็นหน้าตาอย่างนี้
 
-```
+{% highlight html %}
+{% raw %}
 ---
 layout: page
 title: archive
@@ -83,14 +84,11 @@ title: archive
 
 ## Blog Posts
 
-{% highlight html %}
-{% raw %}
 {% for post in site.posts %}
   * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
 {% endfor %}
 {% endraw %}
 {% endhighlight %}
-```
 
 เสร็จแล้วก็จับโยนใส่บนโฟลเดอร์บนสุดเลย เวลาเข้าก็เข้าทาง `yoursite.name/archive`
 
