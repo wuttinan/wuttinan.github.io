@@ -78,7 +78,7 @@ your page content
 {% raw %}
 ---
 layout: page
-title: Archive
+title: archive
 ---
 
 ## Blog Posts
