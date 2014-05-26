@@ -13,10 +13,21 @@ paginate:         1
 baseurl:          /
 author:
   name:           Wuttinan Kachyoot
-  url:            https://wuttinan.com
+  url:            https://twitter.com/wuttinan
   email:          wuttinan@me.com
 
 # Custom vars
 version:          1.0.0
 github:
   repo:           https://github.com/wuttinan/wuttinan.github.io
+
+# Page Lists Config
+pages_list:
+  About: '/about/'
+  Archive: '/archive/'
+  Feed: '/atom.xml'
+
+# More Features 
+gems:
+  - jekyll-redirect-from # Allow URL Redirects
+  - jemoji #Enable Emoji
