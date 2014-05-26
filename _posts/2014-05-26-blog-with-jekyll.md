@@ -75,7 +75,7 @@ your page content
 
 ตัวบล็อกไม่มีหน้ารวมโพสท์ไว้ จึงต้องสร้างไฟล์ `archive.md` ขึ้นมาอีกไฟล์นึง ข้างในเป็นหน้าตาอย่างนี้
 
-```html
+```
 ---
 layout: page
 title: archive
@@ -110,12 +110,12 @@ pages_list:
 ลำดับต่อมาก็ไปแก้ไฟล์ `/_layouts/default.html` ให้เป็นแบบนี้
 
 ```
-  `<h3 class="masthead-title">
+  <h3 class="masthead-title">
           <a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a>
           {% for page in site.pages_list %}
               &nbsp;&nbsp;&nbsp;<small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
           {% endfor %}
-        </h3>`
+  </h3>
 ```
 
 ### 4. others
