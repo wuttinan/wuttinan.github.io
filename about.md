@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
+![me](http://wuttinan.com/assets/me.jpg)
+
 hi! my name is wuttinan kachayoot (read like /wood-thi-nun/). i am freelance translator from thailand. my interest is technology, electronics and jazz music, photography, cooking, reading and more. this is where i write what i'm interested about. if you like my blog, you can follow me at [twitter](http://twitter.com/wuttinan/)
 
 i studied about korean and japanese in bachelor degree from burapha university. currently studying master degree in teaching english at ramkhamhaeng university. i worked about teaching korean and japanese in government high school for three years. now turned to be freelance translator. for my full profile (include résumé) you can look at [here](http://www.linkedin.com/in/wuttinan/).
