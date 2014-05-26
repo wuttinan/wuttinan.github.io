@@ -75,7 +75,7 @@ your page content
 
 ตัวบล็อกไม่มีหน้ารวมโพสท์ไว้ จึงต้องสร้างไฟล์ `archive.md` ขึ้นมาอีกไฟล์นึง ทำเหมือน static page ทุกอย่าง เพียงแต่ใส่โค้ดนี้เพิ่มข้างใน เพื่อให้แสดงรายชื่อโพสท์ของเรา
 
-```
+```ruby
 {% for post in site.posts %}
   * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
 {% endfor %}
