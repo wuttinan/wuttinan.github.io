@@ -8,7 +8,7 @@
 
 ตอนแรกเราจะได้ไฟล์และโฟลเดอร์หน้าตาแบบนี้ใน repo ของเรา
 
-```
+```html
 /_includes
 /_layouts
 /_posts
@@ -106,7 +106,7 @@ pages_list:
 
 ลำดับต่อมาก็ไปแก้ไฟล์ `/_layouts/default.html` ให้เป็นแบบนี้
 
-```html
+```
   <h3 class="masthead-title">
           <a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a>
           {% for page in site.pages_list %}
