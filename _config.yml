@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            Wuttinan Kachayoot
-tagline:          words and thoughts
+tagline:          random thoughts
 url:              http://wuttinan.com
 paginate:         1
 baseurl:          /
@@ -26,8 +26,3 @@ pages_list:
   About: '/about/'
   Archive: '/archive/'
   Feed: '/atom.xml'
-
-# More Features 
-gems:
-  - jekyll-redirect-from # Allow URL Redirects
-  - jemoji #Enable Emoji
