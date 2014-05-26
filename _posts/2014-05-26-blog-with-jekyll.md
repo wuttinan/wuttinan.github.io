@@ -75,6 +75,7 @@ your page content
 
 ตัวบล็อกไม่มีหน้ารวมโพสท์ไว้ จึงต้องสร้างไฟล์ `archive.md` ขึ้นมาอีกไฟล์นึง ข้างในเป็นหน้าตาอย่างนี้
 
+{% highlight html %}
 {% raw %}
 ---
 layout: page
@@ -87,6 +88,7 @@ title: Archive
   * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
 {% endfor %}
 {% endraw %}
+{% endhighlight %}
 
 เสร็จแล้วก็จับโยนใส่บนโฟลเดอร์บนสุดเลย เวลาเข้าก็เข้าทาง `yoursite.name/archive`
 
@@ -109,7 +111,7 @@ pages_list:
 
 ลำดับต่อมาก็ไปแก้ไฟล์ `/_layouts/default.html` ให้เป็นแบบนี้
 
-
+{% highlight html %}
 {% raw %}
 <h3 class="masthead-title">
 <a href="/" title="Home">{{ site.title }}</a>
@@ -119,6 +121,7 @@ pages_list:
 {% endfor %}
 </h3>
 {% endraw %}
+{% highlight html %}
 
 
 ### 4. others
