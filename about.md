@@ -12,6 +12,6 @@ i studied about korean and japanese in bachelor degree from burapha university. 
 you can also reach me at another places:<br />
 [instagram](http://instagr.am/wuttinanp/) / [flickr](http://flickr.com/photos/eszett/) / [last.fm](http://last.fm/user/ping880727/) / [rdio](http://rdio.com/people/wuttinan/) / [steam](http://steamcommunity.com/id/wuttinan/) / [readability](http://readability.com/wuttinan)
 
-i'm using [jekyll](http://jekyllrb.com/) with [poole](http://getpoole.com/) to run this blog and hosted by [github pages](https://pages.github.com/). using [atom](https://atom.io) to coding and [mou](http://mouapp.com/) to write. for who interested to create blog like this, i wrote how-to at here (in thai.)
+i'm using [jekyll](http://jekyllrb.com/) with [poole](http://getpoole.com/) to run this blog and hosted by [github pages](https://pages.github.com/).
 
 thanks for visiting!
