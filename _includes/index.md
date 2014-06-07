@@ -1,5 +1,4 @@
-
-hi! my name is wuttinan kachayoot (read like /wood-thi-nun/). you can call me shortly "ping". i am freelance translator from thailand. my interest is technology, electronics and jazz music, photography, cooking, reading. if your interest is the same, you can read some of [my writing](https://medium.com/@wuttinan/) or follow me at [twitter](http://twitter.com/wuttinan/).
+hi! my name is **wuttinan kachayoot** (read like /wood-thi-nun/). you can call me shortly "ping". i am freelance translator from thailand. my interest is technology, electronics and jazz music, photography, cooking, reading. if your interest is the same, you can read some of [my writing](https://medium.com/@wuttinan/) (in thai.) or follow me at [twitter](http://twitter.com/wuttinan/).
 
 i studied korean and japanese in bachelor degree from burapha university. currently studying master degree in teaching english at ramkhamhaeng university. i worked about teaching korean and japanese in government high school in bangkok for three years. now turned to be freelance translator. for more detail about, here is my [résumé](http://www.linkedin.com/in/wuttinan/).
 
