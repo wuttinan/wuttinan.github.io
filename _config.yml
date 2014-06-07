@@ -1,0 +1,7 @@
+markdown: redcarpet
+pygments: true
+
+title_tag_text: Wuttinan Kachayoot
+h1_tag_text: :)
+
+exclude: ["Procfile", "Gruntfile.js", "README.md", "package.json", "CNAME", "node_modules"]
