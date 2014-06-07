@@ -8,9 +8,6 @@ if you want to contact me you can mail to
 
 you can also reach me at another places:
 
-* [instagram](http://instagr.am/wuttinanp/)
-* [flickr](http://flickr.com/photos/eszett/)
-* [last.fm](http://last.fm/user/ping880727/)
-* [steam](http://steamcommunity.com/id/wuttinan/)
+[instagram](http://instagr.am/wuttinanp/) / [flickr](http://flickr.com/photos/eszett/) / [last.fm](http://last.fm/user/ping880727/) / [steam](http://steamcommunity.com/id/wuttinan/)
 
 thanks for visiting!
