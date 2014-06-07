@@ -4,8 +4,6 @@ i studied korean and japanese in bachelor degree from burapha university. curren
 
 also you can mail me at: k.wuttinan (at) gmail.com
 
-social things:
-
-[instagram](http://instagr.am/wuttinanp/) / [flickr](http://flickr.com/photos/eszett/) / [last.fm](http://last.fm/user/ping880727/) / [steam](http://steamcommunity.com/id/wuttinan/)
+social things: [instagram](http://instagr.am/wuttinanp/) / [flickr](http://flickr.com/photos/eszett/) / [last.fm](http://last.fm/user/ping880727/) / [steam](http://steamcommunity.com/id/wuttinan/)
 
 thanks for visiting!
