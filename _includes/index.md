@@ -1,4 +1,4 @@
-![profile image](http://wuttinan.com/me.jpg)
+![profile image](http://wuttinan.com/me.png)
 
 hi! my name is **wuttinan kachayoot** (read like /wood-thi-nun/). i am freelance translator from thailand. my interest is technology, electronics and jazz music, photography, cooking. you can follow me at [twitter](http://twitter.com/wuttinan/).
 
