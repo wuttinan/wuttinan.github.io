@@ -3,14 +3,16 @@ layout: page
 title: About Gereksiz
 ---
 
-Gereksiz is a minimalist Jekyll theme, based on the default Jekyll theme. It is responsive, generates JSON and Atom feeds on each build, and can be easily extended. It uses Open Sans from Google Fonts.
+hi! my name is **wuttinan kachayoot** (read like /wood-thi-nun/). you can call me shortly "ping". i am freelance translator from thailand. my interest is technology, electronics and jazz music, photography, cooking, reading. if your interest is the same, you can read some of [my writing](https://medium.com/@wuttinan/) (in thai.) or follow me at [twitter](http://twitter.com/wuttinan/).
 
-> It supports blockquotes, too.
+i studied korean and japanese in bachelor degree from burapha university. currently studying master degree in teaching english at ramkhamhaeng university. i am teaching korean and japanese at government high school in bangkok for 3 years. now turned to be freelance translator. for more detail about, here is my [résumé](http://www.linkedin.com/in/wuttinan/).
 
-## Gereksiz on the Internet
+if you want to contact me you can mail to 
 
-* [Gereksiz][github] on GitHub
-* [Bugs of Berk][bob], theme creator's website
+`k.wuttinan (at) gmail.com`
 
-[github]: https://github.com/berkoz/gereksiz/
-[bob]: http://bugsofberk.net
+you can also reach me at another places:
+
+[instagram](http://instagr.am/wuttinanp/) / [flickr](http://flickr.com/photos/eszett/) / [last.fm](http://last.fm/user/ping880727/) / [steam](http://steamcommunity.com/id/wuttinan/)
+
+thanks for visiting!
