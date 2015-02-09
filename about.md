@@ -8,7 +8,7 @@ title: About
 wuttinan is a freelancing translator (in korean, japanese, english and thai) who residence in thailand.  he spend his freetime in listening music, play video games and reading books.
 
 if you want to drop a contact you can send mail to:
-wuttinan (at) gmx.com.
+*wuttinan (at) gmx.com*
 
 for my full résumé, please look at [my linkedin profile](http://www.linkedin.com/in/wuttinan).
 
