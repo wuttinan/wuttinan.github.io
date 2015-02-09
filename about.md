@@ -4,28 +4,9 @@ title: About
 permalink: about
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+wuttinan is a freelancing translator (in korean, japanese, english and thai) who residence in thailand.  he spend his freetime in listening music, play video games and reading books.
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+if you want to drop a contact you can do [here](mailto:wuttinan@gmx.com). otherwise, if you want to see résumé (education,works, contact info, etc.) please [here](http://www.linkedin.com/in/wuttinan).
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+another places you can reach:  
+[twitter](http://twitter.com/wuttinan) / [instagram](http://instagr.am/wuttinanp) / [flickr](http://flickr.com/photos/eszett) / [pinterest](http://pinterest.com/wuttinan) / [last.fm](http://last.fm/user/ping880727) / [steam](http://steamcommunity.com/id/wuttinan)
