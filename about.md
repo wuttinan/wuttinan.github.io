@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: about
 ---
 
 wuttinan is a freelancing translator (in korean, japanese, english and thai) who residence in thailand.  he spend his freetime in listening music, play video games and reading books.
