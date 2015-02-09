@@ -5,7 +5,7 @@ relative_permalinks: true
 # Setup
 title:            Wuttinan Kachayoot
 tagline:          Words & Thoughts
-url:              http://wuttinan.github.io
+url:              http://wuttinan.com
 paginate:         1
 baseurl:          /
 author:
