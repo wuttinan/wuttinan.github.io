@@ -1,0 +1,19 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Wuttinan Kachayoot
+tagline:          Words & Thoughts
+url:              http://wuttinan.github.io
+paginate:         1
+baseurl:          /
+author:
+  name:           Wuttinan Kachayoot
+  url:            https://twitter.com/wuttinan
+  email:          wuttinan@gmx.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/wuttinan/wuttinan.github.io
