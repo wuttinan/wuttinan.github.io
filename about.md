@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
+![it's me!](http://wuttinan.com/me200.jpg)
+
 wuttinan is a freelancing translator (in korean, japanese, english and thai) who residence in thailand.  he spend his freetime in listening music, play video games and reading books.
 
 if you want to drop a contact you can send mail to:
