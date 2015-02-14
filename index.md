@@ -2,7 +2,6 @@
 layout: default
 ---
 
-![It's Me!](http://wuttinan.com/me150.jpg)
 ### Wuttinan Kachayoot
 
 freelance translator (in thai, english, korean)  
