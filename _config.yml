@@ -1,25 +1,9 @@
-# Permalinks
-permalink:        "/:title"
-relative_permalinks: true
+# Site settings
+title: Solo, a Jekyll Theme
+tag_text: Solo
+description: Solo is a Jekyll theme that supports single-page websites only, but supports them well. Yes, it’s responsive.
 
-# Setup
-title:            Wuttinan Kachayoot
-tagline:          Words & Thoughts
-url:              http://wuttinan.com
-paginate:         1
-baseurl:          /
-author:
-  name:           Wuttinan Kachayoot
-  url:            https://twitter.com/wuttinan
-  email:          wuttinan@gmx.com
+# Build settings
+markdown: kramdown
 
-# Custom vars
-version:          1.0.0
-github:
-  repo:           https://github.com/wuttinan/wuttinan.github.io
-
-#Site Navigation
-pages_list:
-  About: '/about'
-  Archive: '/archive'
-  Feed: '/atom.xml'
+exclude: ["README.md"]
