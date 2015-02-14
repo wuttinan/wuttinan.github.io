@@ -5,7 +5,6 @@ layout: default
 ### Wuttinan Kachayoot
 
 freelance translator  
-(in thai, english, korean)  
 [mail me](mailto:wuttinan@gmx.com). [résumé](http://www.linkedin.com/in/wuttinan)
 
 social things:  
