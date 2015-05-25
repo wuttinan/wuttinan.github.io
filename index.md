@@ -16,7 +16,7 @@ freelance translator (korean,english,thai)
 
 **works**:  
 - 2011~2014. korean teacher, satreesetthabuthbampen school. bangkok.  
-- 2014~current. freelance translator.  
+- 2014~. freelance translator.  
 
 **social things**:  
 [twitter](http://twitter.com/wuttinan) . [instagram](http://instagr.am/wuttinanp) . [pinterest](http://pinterest.com/wuttinan) . [last.fm](http://last.fm/user/ping880727) . [steam](http://steamcommunity.com/id/wuttinan)
