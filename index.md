@@ -16,7 +16,7 @@ education:
 
 works:  
 - 2011 ~ 2014. korean teacher, satreesetthabuthbamphen school. bangkok.  
-- 2014 ~ now. freelance translator.  
+- 2014 ~ current. freelance translator.  
 
 social things:  
 [twitter](http://twitter.com/wuttinan) . [instagram](http://instagr.am/wuttinanp) . [pinterest](http://pinterest.com/wuttinan) . [last.fm](http://last.fm/user/ping880727) . [steam](http://steamcommunity.com/id/wuttinan)
