@@ -15,7 +15,7 @@ education:
 - 2010 m.a creative writing, chung-ang university. south korea.  
 
 works:  
-- 2011 ~ 2014. korean teacher, satreesetthabuthbamphen school. bangkok.  
+- 2011 ~ 2014. korean teacher, satreesetthabuthbampen school. bangkok.  
 - 2014 ~ current. freelance translator.  
 
 social things:  
