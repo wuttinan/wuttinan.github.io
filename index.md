@@ -14,5 +14,9 @@ education:
 - 2007 m.a korean, burapha university. thailand.  
 - 2010 m.a creative writing, chung-ang university. south korea.  
 
+works:  
+- 2011 ~ 2014. korean teacher, satreesetthabuthbamphen school. bangkok.  
+- 2014 ~ now. freelance translator.  
+
 social things:  
 [twitter](http://twitter.com/wuttinan) . [instagram](http://instagr.am/wuttinanp) . [pinterest](http://pinterest.com/wuttinan) . [last.fm](http://last.fm/user/ping880727) . [steam](http://steamcommunity.com/id/wuttinan)
