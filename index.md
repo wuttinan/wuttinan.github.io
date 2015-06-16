@@ -10,10 +10,6 @@ freelance translator (korean,english,thai)
 
 **contact**: k.wuttinan (at) gmail.com  
 
-**education**:  
-- 2007 B.A. korean language, burapha university. thailand.  
-- 2010 B.A. creative writing, chung-ang university. south korea.  
-
 **works**:  
 - 2011~2014. teacher (korean language), satreesetthabuthbampen school. bangkok.  
 - 2014~. freelance translator.  
