@@ -11,15 +11,18 @@ freelance translator (korean,english,thai)
 **contact**: k.wuttinan (at) gmail.com  
 
 **works**:  
-- 2011~2014.
+- 2011~2014
+teacher (korean) 
+satreesetthabuthbampen school 
+bangkok.  
 
-teacher (korean), satreesetthabuthbampen school. bangkok.  
 - 2014~. 
+freelance translator
 
-freelance translator.  
 - 2015~, 
-
-product coordinator (korean), asiasoft pcl. bangkok.
+product coordinator (korean)
+asiasoft pcl
+bangkok.
 
 **social things**:  
 [twitter](http://twitter.com/wuttinan) . [flickr](http://flickr.com/photos/eszett) . [instagram](http://instagr.am/wuttinanp) . [last.fm](http://last.fm/user/ping880727) . [steam](http://steamcommunity.com/id/wuttinan)
