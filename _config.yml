@@ -1,9 +1,0 @@
-# Site settings
-title: Wuttinan Kachayoot
-tag_text:
-description: Personal Homepage of Wuttinan Kachayoot
-
-# Build settings
-markdown: kramdown
-
-exclude: ["README.md"]
